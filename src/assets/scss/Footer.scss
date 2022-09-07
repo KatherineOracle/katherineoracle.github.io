@@ -1,0 +1,18 @@
+@import "variables";
+
+footer {
+    background-color: $dusty-rose;
+    padding: 2em 0 1em 0;
+    color: $white;
+    h4{
+        margin-bottom: 1rem;
+    }
+    a {
+      color: $white;
+  
+      &:hover {
+        color: $white;
+        text-decoration: underline;
+      }
+    }
+  }

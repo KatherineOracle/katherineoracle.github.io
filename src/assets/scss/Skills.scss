@@ -1,0 +1,40 @@
+@import "variables";
+
+
+.rank {
+    position: relative;
+    margin: 0 auto;
+    display: inline-block;
+    font-family: "Fontello";
+    font-size: 1.5rem;
+    letter-spacing: 5px;
+    text-align: center;
+    height: 1.5em;
+    &:before {
+      content: "\e802\e802\e802\e802\e802";
+      color: $light-gray;
+      position: relative;
+      left: 0;
+    }
+    .score {
+      color: $dusty-rose;
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+    .score[data-score="1"]:before {
+      content: "\e802";
+    }
+    .score[data-score="2"]:before {
+      content: "\e802\e802";
+    }
+    .score[data-score="3"]:before {
+      content: "\e802\e802\e802";
+    }
+    .score[data-score="4"]:before {
+      content: "\e802\e802\e802\e802";
+    }
+    .score[data-score="5"]:before {
+      content: "\e802\e802\e802\e802\e802";
+    }
+  }
