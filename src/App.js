@@ -245,49 +245,49 @@ Below all the app data (about me)
     , professional: [
       {
         name: "Anglogold Ashanti - Corporate site",
-        thumbnail: "assets/img/portfolio/professional/Screenshot 2022-09-06 at 20-50-04 AngloGold Ashanti.jpg",
+        thumbnail: "assets/img/portfolio/professional/screenshot-anglogold-ashanti.jpg",
         live_url: "https://www.anglogoldashanti.com/",
         languages: ["PHP", "WordPress", "Zurb Foundation", "JQuery", "Sass"]
       },
       {
         name: "Detpak SA - Corporate and Ecommerce website",
-        thumbnail: "assets/img/portfolio/professional/Screenshot 2022-09-06 at 20-50-47 Detpak South Africa - Home.jpg",
+        thumbnail: "assets/img/portfolio/professional/screenshot-detpak-sa.jpg",
         live_url: "https://detpak.co.za/",
         languages: ["PHP", "Joomla", "Bootstrap", "JQuery", "Sass", "Payfast"]
       },
       {
         name: "EastPlats Limited - corporate website",
-        thumbnail: "assets/img/portfolio/professional/Screenshot 2022-09-06 at 20-51-22 Home Eastplats.jpg",
+        thumbnail: "assets/img/portfolio/professional/screenshot-eastplats.jpg",
         live_url: "https://eastplats.com/",
         languages: ["PHP", "WordPress", "Javascript", "Sass", "RapidAPI"]
       },
       {
         name: "Institute for Social Dialogue - non-profit website",
-        thumbnail: "assets/img/portfolio/professional/Screenshot 2022-09-06 at 20-52-15 Home - Institute for Social Dialogue.jpg",
+        thumbnail: "assets/img/portfolio/professional/screenshot-isd.jpg",
         live_url: "https://isd.org.za/",
         languages: ["PHP", "WordPress", "Javascript", "Sass"]
       },
       {
         name: "Sibanye-Stillwater - 2022 Annual Report Microsite",
-        thumbnail: "assets/img/portfolio/professional/Screenshot= Integrated Reporting Suite 2021 Sibanye Stillwater.jpg",
+        thumbnail: "assets/img/portfolio/professional/ssw-integrated-reporting-suite-2021.jpg",
         live_url: "https://reports.sibanyestillwater.com/",
         languages: ["Zurb Foundation", "JQuery", "Sass"]
       },
       {
         name: "AngloGold Ashanti - 2022 Annual Report Suite Microsite",
-        thumbnail: "assets/img/portfolio/professional/Screenshot 2022-09-06 at 20-58-58 Home 2021.jpg",
+        thumbnail: "assets/img/portfolio/professional/screenshot-aga-r2021.jpg",
         live_url: "https://www.aga-reports.com/",
         languages: ["PHP", "WordPress", "Javascript", "Sass"]
       },
       {
         name: "Marikana Renewal - non-profit website",
-        thumbnail: "assets/img/portfolio/professional/Screenshot 2022-09-06 at 21-03-14 Home Marikana Renewal.jpg",
+        thumbnail: "assets/img/portfolio/professional/screenshot-marikana-renewal.jpg",
         live_url: "https://www.marikanarenewal.co.za/",
         languages: ["PHP", "WordPress", "Javascript", "Sass"]
       },
       {
         name: "MOSH Critical Noise Equipment Screening Tool",
-        thumbnail: "assets/img/portfolio/professional/Screenshot 2022-09-06 at 21-05-27 MOSH Critical Noise Screening Tool.jpg",
+        thumbnail: "assets/img/portfolio/professional/screenshot-MOSH-critical-noise-tool.jpg",
         live_url: "https://www.mosh.co.za/tools/noise/screening/",
         languages: ["PHP", "CodeIgniter", "Jquery", "MySQL"]
       }        
